@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/customersApp/static/css/main.278283f1.css",
+    "main.js": "/customersApp/static/js/main.ad41b010.js",
+    "static/media/pexels-felixmittermeier-956999.jpg": "/customersApp/static/media/pexels-felixmittermeier-956999.ee50e35ef13347bdf6cf.jpg",
+    "index.html": "/customersApp/index.html",
+    "main.278283f1.css.map": "/customersApp/static/css/main.278283f1.css.map",
+    "main.ad41b010.js.map": "/customersApp/static/js/main.ad41b010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.278283f1.css",
+    "static/js/main.ad41b010.js"
+  ]
+}
